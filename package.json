@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "webpack": "^5.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npm run jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epinczinger/testing-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epinczinger/testing-js/issues"
+  },
+  "homepage": "https://github.com/epinczinger/testing-js#readme"
+}
